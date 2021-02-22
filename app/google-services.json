@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928759479634",
+    "project_id": "media-pitchounes-app-80e81",
+    "storage_bucket": "media-pitchounes-app-80e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928759479634:android:0c8edad3434d8591968e8b",
+        "android_client_info": {
+          "package_name": "com.example.MediaPitchounesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928759479634-6dtpcl52uo4ihu453r8p5iem9v4741hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.MediaPitchounesApp",
+            "certificate_hash": "4c29d4cb21203e01142f76d79206153423f2282b"
+          }
+        },
+        {
+          "client_id": "928759479634-l0da98l81853fot02jbctk9e0d8ebjhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySdEr8iXbQQqAn5Fc1qyBpjdiMbNjoZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928759479634-l0da98l81853fot02jbctk9e0d8ebjhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

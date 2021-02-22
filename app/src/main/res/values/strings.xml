@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MediaPitchounesApp</string>
+    <string name="enter_name">Nom</string>
+    <string name="enter_email"> Email</string>
+    <string name="type_message">Message</string>
+    <string name="label_sign_up">Créer un compte</string>
+    <string name="btn_sign_up"> Créer un compte</string>
+    <string name="btn_login">Connexion</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="label_sign_in">Connexion</string>
+    <string name="label_message">Message</string>
+    <string name="label_profile">Profil</string>
+    <string name="enter_password">Mot de passe</string>
+    <string name="enter_confirm_password">Confirmation du mot de passe</string>
+</resources>
